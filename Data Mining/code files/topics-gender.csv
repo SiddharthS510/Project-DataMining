@@ -1,0 +1,17 @@
+﻿gender,opinion,topic,prob
+male,1,choice,19.35
+male,1,unborn,21.66
+male,1,religion,5.44
+male,1,healthcare,17.05
+male,0,nationalist,32.09
+male,0,unborn,17.42
+male,0,religion,17.58
+male,0,healthcare,17.32
+female,1,choice,20.45
+female,1,unborn,25.12
+female,1,religion,4.39
+female,1,healthcare,15.27
+female,0,nationalist,19.88
+female,0,unborn,17.66
+female,0,religion,22.33
+female,0,healthcare,19.26

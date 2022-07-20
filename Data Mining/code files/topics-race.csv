@@ -1,0 +1,17 @@
+﻿race,opinion,topic,prob
+white,1,choice,19.44
+white,1,unborn,23.15
+white,1,religion,5.61
+white,1,healthcare,16.22
+white,0,nationalist,30.24
+white,0,unborn,16.72
+white,0,religion,18.11
+white,0,healthcare,18.62
+other race,1,choice,20.36
+other race,1,unborn,23.16
+other race,1,religion,4.08
+other race,1,healthcare,16.42
+other race,0,nationalist,18.66
+other race,0,unborn,19.32
+other race,0,religion,23.19
+other race,0,healthcare,17.28

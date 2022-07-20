@@ -1,0 +1,25 @@
+﻿age,opinion,topic,prob
+old,1,choice,18.18
+old,1,unborn,22.41
+old,1,religion,5.99
+old,1,healthcare,16.85
+old,0,nationalist,35.45
+old,0,unborn,16.44
+old,0,religion,15.55
+old,0,healthcare,17
+middle aged,1,choice,20.59
+middle aged,1,unborn,23.72
+middle aged,1,religion,4.51
+middle aged,1,healthcare,15.9
+middle aged,0,nationalist,19.21
+middle aged,0,unborn,18.09
+middle aged,0,religion,23.12
+middle aged,0,healthcare,19.64
+young,1,choice,21.04
+young,1,unborn,23.32
+young,1,religion,4.24
+young,1,healthcare,16.06
+young,0,nationalist,17.6
+young,0,unborn,19.19
+young,0,religion,24.03
+young,0,healthcare,18.66
